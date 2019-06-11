@@ -7,14 +7,14 @@ editor_id: github.NanoScaleDesign
 explanation:
   answer:
     Numeric:
-      number: '4.6e-3'
+      number: '4.6e-2'
       tolerance:
         percent: '1.0'
   resources: {}
 extra_resources: {}
 id: 07aee1fb-a9a6-4aed-a95b-96dbb3e36f47
 language: en
-modified: '2019-05-23T06:30:02.076762Z'
+modified: '2019-06-12T04:58:51.265712Z'
 title: 'LNG: mol-fraction of ethane'
 title_id: lng-mol-fraction-of-ethane
 topics: []
