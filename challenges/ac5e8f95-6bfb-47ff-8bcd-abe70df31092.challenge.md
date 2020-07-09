@@ -7,9 +7,9 @@ explanation:
     Numeric:
       number: '3.0'
       tolerance:
-        percent: '1.0'
+        percent: '2.0'
 editor_id: linkedin.e5bx9BUaOC
-modified: 2020-07-09T21:14:03.525816251Z
+modified: 2020-07-09T21:14:54.089539648Z
 affiliated_institute:
   url: https://challengehub.app
   en_name: ChallengeHub
